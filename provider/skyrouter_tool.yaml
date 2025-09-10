@@ -1,9 +1,9 @@
 identity:
   author: cloudsway
-  name: skyrouter_tool
+  name: cloudswayai_skyrouter_tool
   label:
-    en_US: Skyrouter
-    zh_Hans: Skyrouter
+    en_US: Cloudswayai Skyrouter Tool
+    zh_Hans: Cloudswayai Skyrouter 工具
   description:
     en_US: Skyrouter Image Generation and Editing
     zh_Hans: Skyrouter 图像生成和编辑

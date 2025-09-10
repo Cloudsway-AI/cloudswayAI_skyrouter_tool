@@ -1,13 +1,13 @@
 version: 0.0.1
 type: plugin
 author: cloudsway
-name: skyrouter_tool
+name: cloudswayai_skyrouter_tool
 label:
-  en_US: Skyrouter
-  zh_Hans: Skyrouter
+  en_US: Cloudswayai Skyrouter Tool
+  zh_Hans: Cloudswayai Skyrouter 工具
 description:
   en_US: Skyrouter Tools
-  zh_Hans: Skyrouter 工具集
+  zh_Hans: Skyrouter 工具集, 支持图像生成和编辑
 icon: icon.png
 resource:
   memory: 268435456
